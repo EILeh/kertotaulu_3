@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1700748314 source:c:\users\elli\documents\yliopisto\2. vuosi\2023-2024\1.-2. periodi\ohjelmoinnin tekniikka c\osa 2\kertotaulu_3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"kertotaulu.h"
+
+1700748310 c:\users\elli\documents\yliopisto\2. vuosi\2023-2024\1.-2. periodi\ohjelmoinnin tekniikka c\osa 2\kertotaulu_3\kertotaulu.h
+
